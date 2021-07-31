@@ -1,8 +1,6 @@
 # Hello, my name is Andres Condori
 ### Freelance full-stack Android engineer
 
-![https://github.com/AndresDev711](https://raw.githubusercontent.com/AndresDev711/AndresDev711/master/AndresDev711_github_profile.png)
-
 I'm a professional software developer.
 
 ## Skills:

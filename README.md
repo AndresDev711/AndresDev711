@@ -22,5 +22,13 @@ I'm a professional software developer.
 
 </br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AndresDev711">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndresDev711&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## Contact me:
 [![Email](https://img.shields.io/badge/andres7condori@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:andres7condori@gmail.com)
